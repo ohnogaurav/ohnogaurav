@@ -4,8 +4,16 @@
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)<br>
 ### A passionate and enthusiastic programmer<br>
 <div align="center">
-  <img height="200" src="[https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1](https://tenor.com/view/tony-stark-iron-man-marvel-infinity-stones-infinity-gauntlet-gif-14609145),00000000ffffffff-nd-v1" width= "350" align=right />
+  
+ <div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" align="right" />
 </div>
+
+
+
+
+
+
 - 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
 - 🏫 I’m currently learning <b>DSA and JAVA</b> <br>
 - 🙌 I’m looking to collaborate on <b>Data Science</b> <br>
