@@ -2,7 +2,7 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)<br>
-### A passionate and enthusiastic programmer<br>
+### Insanely Passionate and Ambitious Programmer 🚀<br>
 
   
  <div align="center">
@@ -14,11 +14,11 @@
 
 
 
-- 👨‍🏭 I’m currently pursuing <b>B.Tech CSE From Lovely Professional University</b> <br>
-- 🏫 I’m currently learning <b>DSA and JAVA</b> <br>
-- 🙌 I’m looking to collaborate on <b>Data Science</b> <br>
-- 🤔 I’m looking for help with <b>Backend Development</b><br>
-- 🥅 Upcoming Goals: <b>Contribute to open source and learn DSA & Development</b> <br>
+- 👨‍🏭 Currently "enduring" my journey through **B.Tech in Computer Science** at Lovely Professional University.</b> <br>
+- 🏫 "Mastering" the mystical arts of **Data Structures and Algorithms** while trying not to pull my hair out over **Java**.</b> <br>
+- 🙌 "Humbly seeking" opportunities to collaborate on **Data Science** projects because who doesn't enjoy playing with data?</b> <br>
+- 🤔 Desperately in need of "guidance" in **Backend Development** because apparently, it's more complicated than rocket science.</b><br>
+- 🥅 Future goals include "world domination through open source contributions" and "unlocking the secrets of DSA & Software Development" (if I survive this semester).</b> <br>
 
 ### 🕵 Social Media Handles!<br>
 
