@@ -1,28 +1,46 @@
 name: Generate Snake
 
+# Controls when the action will run. This action runs every 6 hours.
 on:
-  schedule: # Run at 12 AM UTC every day
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
+  schedule:
+      # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    # Checkout the repository
+      - uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v2
+    # Generate the snake  
+      - uses: Platane/snk@v2
+        id: snake-gif
         with:
           github_user_name: ohnogaurav
-          output: dist/snake.svg
+          outputs: dist
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake
+    # Push the changes to the output branch
+      - name: Push changes to output branch
+        uses: actions/checkout@v3
+        with:
+          ref: output
+
+      - name: Copy files to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          cp -r dist/* .
+          git add .
+          git commit -m "Generated snake contribution grid"
+          git push origin output
+
+    # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
