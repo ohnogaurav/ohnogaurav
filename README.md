@@ -71,13 +71,33 @@
 </div>
 <br>
 
-### 📈 Github Stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohnogaurav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohnogaurav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /><br><br>
-  <img src="https://github-profile-trophy.vercel.app?username=ohnogaurav&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohnogaurav&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
+
+
+
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ohnogaurav&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ohnogaurav&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnogaurav&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=ohnogaurav&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/>
+
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ohnogaurav&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+## Contribution Graph
+<img src="https://camo.githubusercontent.com/aaa316f7de2fd3e4649a904c968839213655a0737cbc9ff4e9eb33e1ec4083cd/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6f686e6f676175726176267261646975733d3136267468656d653d7265646963616c26617265613d74727565266f726465723d35" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=ohnogaurav&amp;radius=16&amp;theme=redical&amp;area=true&amp;order=5" style="max-width: 100%;">
+
+
+
+
+
+
+
+
 
 
