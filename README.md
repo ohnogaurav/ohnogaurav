@@ -7,7 +7,7 @@
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" />
 </div>
 
-### Insanely Passionate and Ambitious Programmer 🚀<br>
+###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
 
 - 👨‍🏭 Currently "enduring" my journey through **B.Tech in Computer Science** at Lovely Professional University.</b> <br>
 - 🏫 "Mastering" the mystical arts of **Data Structures and Algorithms** while trying not to pull my hair out over **Java**.</b> <br>
