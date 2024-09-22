@@ -2,23 +2,19 @@
 <br>
 
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)<br>
-### Insanely Passionate and Ambitious Programmer 🚀<br>
 
-  
- <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" align="right" />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" />
 </div>
 
-
-
-
-
+### Insanely Passionate and Ambitious Programmer 🚀<br>
 
 - 👨‍🏭 Currently "enduring" my journey through **B.Tech in Computer Science** at Lovely Professional University.</b> <br>
 - 🏫 "Mastering" the mystical arts of **Data Structures and Algorithms** while trying not to pull my hair out over **Java**.</b> <br>
 - 🙌 "Humbly seeking" opportunities to collaborate on **Data Science** projects because who doesn't enjoy playing with data?</b> <br>
 - 🤔 Desperately in need of "guidance" in **Backend Development** because apparently, it's more complicated than rocket science.</b><br>
 - 🥅 Future goals include "world domination through open source contributions" and "unlocking the secrets of DSA & Software Development" (if I survive this semester).</b> <br>
+
 
 ### 🕵 Social Media Handles!<br>
 
