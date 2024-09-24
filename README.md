@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)<br>
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" />
+  <img height="300" width="800" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDA0enJvNGNxaXA4NWFoenJoejl5b2t4dWRyM2kwYmxjZTFzOHEyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nffaiMCPq1HCBCtOk/giphy.gif" />
 </div>
 
 ###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
