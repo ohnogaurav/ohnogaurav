@@ -1,4 +1,4 @@
-# Hey there, I’m Gaurav Kumar, bending time and space.… and your code! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hey there, I’m Gaurav Kumar, bending time and space… and your code! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)<br>
