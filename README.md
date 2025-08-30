@@ -24,6 +24,17 @@
 
 ---
 
+### ⭐ My Starred Collections  
+
+Here are some of my favorite repositories grouped by themes:
+
+- 📌 [**Generative AI**](https://github.com/stars/ohnogaurav/lists/generative-ai) – Projects for creating, transforming, and analyzing content using advanced AI models.  
+- 🐍 [**Python Flask**](https://github.com/stars/ohnogaurav/lists/python-flask) – Lightweight, scalable, and interactive web services with Flask.  
+- ☁️ [**Cloud (AWS)**](https://github.com/stars/ohnogaurav/lists/cloud-aws) – Leveraging Amazon AWS for scalable, reliable deployments.  
+- 👁️ [**Computer Vision + Backend**](https://github.com/stars/ohnogaurav/lists/computer-vision-backend) – Exploring computer vision with backend development.  
+- 🎮 [**Fun & Exploration Scripts**](https://github.com/stars/ohnogaurav/lists/scripts-for-fun-exploration) – Experimental and creative scripts for learning and fun.  
+
+---
 ### 🌐 Connect With Me  
 
 <div align="left">
@@ -60,6 +71,7 @@
 </div>
 
 ---
+
 
 ### 📊 GitHub Analytics  
 
