@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Gaurav Kumar  
-💻 Software Development | Backend & Automation  
+💻 Software Development | Machine Learning | Backend Engineering  
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)
 
 </div>
@@ -10,16 +10,19 @@
 
 ### 🚀 About Me  
 
-I'm pursuing a **B.Tech in Computer Science Engineering** at Lovely Professional University and actively building skills through real-world projects and problem-solving.
+I'm a Computer Science Engineering student with a strong interest in **backend development, data science, and machine learning**.  
+I work primarily with Python and enjoy building systems that are not just functional — but scalable, maintainable, and deployable.
 
-My focus areas include:
+My learning approach is simple:  
+**Build → Break → Fix → Improve.**
 
-- Backend development (Python, Flask)
-- Automation (Selenium, scripting, system tooling)
-- Data Structures & Algorithms
-- Cloud & scalable systems  
+I'm currently focused on:
 
-I believe in learning by doing — improving through iteration, not theory alone.
+- Backend development using **Python, Flask**
+- **Machine Learning & Data Science** workflows
+- **Generative AI applications** and automation
+- Deploying solutions on **AWS Cloud**
+- Writing clean, modular, and reproducible code
 
 📫 Email: **gauravatwork17@gmail.com**
 
@@ -29,55 +32,46 @@ I believe in learning by doing — improving through iteration, not theory alone
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gauravconnects/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://leetcode.com/u/ohnogaurav/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://stackoverflow.com/users/20703607/gaurav-kumar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="40" />
+    <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
 
-### ⭐ Curated GitHub Lists  
+### 🧠 Tech Stack & Skills  
 
-- 🔥 Generative AI  
-- 🐍 Python & Flask Projects  
-- ☁️ AWS & Cloud Computing  
-- 👁️ Computer Vision + Backend  
-- 🧪 Automations & Experimental Scripts  
+#### **Core Skills**
+- Python (Advanced)
+- Data Structures & Algorithms
+- APIs & Backend Architecture
 
----
+#### **Data Science & Machine Learning**
+- Pandas · NumPy · Scikit-learn  
+- Matplotlib · Seaborn  
+- Data Analysis · Model Training · Feature Engineering  
+- ML Deployment (basic level)
 
-### 🧰 Skills & Tools  
+#### **AI & Generative AI**
+- LLMs (concepts & implementation usage)
+- Prompt Engineering
+- HuggingFace Models (exploring)
+- AI Automation Projects
 
-<div align="left">
+#### **Backend Development**
+- Flask · REST APIs  
+- JSON, JWT, Authentication  
+- SQL & ORM Ops
 
-#### **Languages**
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="27"/>
-
-#### **Web & Backend**
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27"/>
-
-#### **Databases**
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="27"/>
-
-#### **Tools**
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="27"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="27"/>
-
-</div>
+#### **Cloud & DevOps**
+- AWS (EC2, S3, IAM basics, deployment)
+- Git & GitHub · CI/CD basics
+- Linux command-line workflow
 
 ---
 
