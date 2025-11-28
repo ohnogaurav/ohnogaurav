@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Gaurav Kumar  
+# 👋 Namaste, I'm Gaurav   
 💻 Software Development | Machine Learning | Backend Engineering  
 ![](https://komarev.com/ghpvc/?username=ohnogaurav&color=blue)
 
