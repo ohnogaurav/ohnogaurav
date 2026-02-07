@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gaurav Kumar  
+#  👋 Namaste, I'm Gaurav  
 **Python Developer | Automation & Data Pipelines | Backend Systems**
 
 Building practical, reliable Python systems for data processing, internal tools, and workflow automation.
