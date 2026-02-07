@@ -50,6 +50,10 @@ I maintain a curated GitHub list where I’ve starred all my **Python-only proje
 **https://github.com/ohnogaurav?tab=stars**  
 *(List name: “Python Project ONLY”)*
 
+👉 **Resume:**
+**https://drive.google.com/file/d/18IHnXoVee-vTx0yElYThNUFf6Zhe8bgI/view?usp=sharing**
+
+
 ---
 
 ## Technical Skills
