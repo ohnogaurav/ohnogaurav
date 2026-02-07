@@ -96,11 +96,23 @@ I maintain a curated GitHub list where I’ve starred all my **Python-only proje
 
 ---
 
-## GitHub Activity
+### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ohnogaurav&theme=nightowl&include_all_commits=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ohnogaurav&theme=nightowl)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnogaurav&layout=compact&theme=nightowl)
+![](https://github-readme-stats.vercel.app/api?username=ohnogaurav&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ohnogaurav&theme=nightowl&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnogaurav&theme=nightowl&hide_border=false&layout=compact)
+
+---
+
+### 📈 Contribution Graph  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ohnogaurav&theme=redical&area=true&hide_border=true" height="300" />
+
+---
+
+### 🏆 Achievements  
+
+![](https://github-profile-trophy.vercel.app/?username=ohnogaurav&theme=darkhub&no-frame=false&margin-w=4)
 
 ---
 
