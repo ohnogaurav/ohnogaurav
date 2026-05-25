@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-# Gaurav Kumar
+# Namaste, I am Gaurav 👋 
 
 **Python Engineer · Backend Systems · Data Pipelines**
 
