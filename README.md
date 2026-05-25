@@ -16,6 +16,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/j6qnywnl0m6iFAM3Re/giphy.gif" width="350"/>
+</p>
 
 ### About
 
