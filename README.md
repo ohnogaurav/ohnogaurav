@@ -97,7 +97,7 @@ Internships and early roles focused on **Python backend, data engineering, or au
 
 <div align="center">
 
-<sub>**gauravatwork17@gmail.com** · [LinkedIn](https://www.linkedin.com/in/gauravconnects/) · [Resume](https://drive.google.com/file/d/18IHnXoVee-vTx0yElYThNUFf6Zhe8bgI/view?usp=sharing)</sub>
+<sub>**gauravatwork17@gmail.com** · [Portfolio](https://ohnogaurav.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gauravconnects/) · [Resume](https://drive.google.com/file/d/18IHnXoVee-vTx0yElYThNUFf6Zhe8bgI/view?usp=sharing)</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
