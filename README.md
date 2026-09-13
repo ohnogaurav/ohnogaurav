@@ -23,7 +23,7 @@
 
 ### About
 
-CSE undergrad (2026) building **practical Python systems** — clean, maintainable, and production-ready.
+CSE grad (2026) building **practical Python systems** — clean, maintainable, and production-ready.
 
 I focus on the problems that quietly break teams: messy data, fragile automations, undocumented scripts. My work sits at the intersection of backend engineering and operational reliability.
 
